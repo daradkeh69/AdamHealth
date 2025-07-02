@@ -37,6 +37,7 @@ cd adamhealth
 
 🗂️ Project Structure
 📁 adamhealth/
+
 ├── index.html         → Main landing page  
 ├── blog.html          → Blog section  
 ├── services.html      → Services overview  
