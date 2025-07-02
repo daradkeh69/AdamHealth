@@ -21,7 +21,7 @@ Built with **HTML**, **CSS**, and **Font Awesome**.
 - 💆 **Services** – Overview of wellness services offered  
 - 🖼️ **Gallery** – Visual showcase of activities and community  
 - 📬 **Contact** – Simple way to get in touch
-- - 📱 **Responsive Design** – Looks great on all devices  
+- 📱 **Responsive Design** – Looks great on all devices  
 - ⭐ **Font Awesome Icons** – Clean and attractive visuals  
 
 ---
