@@ -31,3 +31,35 @@ Built with **HTML**, **CSS**, and **Font Awesome**.
 ```bash
 git clone https://github.com/yourusername/adamhealth.git
 cd adamhealth
+```
+
+---
+
+🗂️ Project Structure
+📁 adamhealth/
+├── index.html         → Main landing page  
+├── blog.html          → Blog section  
+├── services.html      → Services overview  
+├── gallery.html       → Image gallery  
+├── contact.html       → Contact form  
+└── styles.css         → Main stylesheet  
+
+---
+
+🎨 Customization Tips
+	•	Replace placeholder text and images directly in the HTML files
+	•	Edit styles.css to change colors, fonts, or layout
+	•	Add your own blog posts, services, or new pages
+
+ ---
+
+ 🙏 Credits
+	•	Font Awesome – for icons
+	•	placehold.co – for placeholder images
+
+⸻
+
+📄 License
+
+This project is open-source and available for personal or educational use.
+Feel free to modify, improve, or share — but please give credit if reused.
