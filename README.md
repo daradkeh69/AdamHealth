@@ -20,8 +20,8 @@ Built with **HTML**, **CSS**, and **Font Awesome**.
 - 📝 **Blog** – Articles and resources on wellness topics  
 - 💆 **Services** – Overview of wellness services offered  
 - 🖼️ **Gallery** – Visual showcase of activities and community  
-- 📬 **Contact** – Simple way to get in touch  
-- 📱 **Responsive Design** – Looks great on all devices  
+- 📬 **Contact** – Simple way to get in touch
+- - 📱 **Responsive Design** – Looks great on all devices  
 - ⭐ **Font Awesome Icons** – Clean and attractive visuals  
 
 ---
@@ -48,17 +48,17 @@ cd adamhealth
 ---
 
 🎨 Customization Tips
-	•	Replace placeholder text and images directly in the HTML files
-	•	Edit styles.css to change colors, fonts, or layout
-	•	Add your own blog posts, services, or new pages
+- Replace placeholder text and images directly in the HTML files
+- Edit styles.css to change colors, fonts, or layout
+- Add your own blog posts, services, or new pages
 
  ---
 
  🙏 Credits
-	•	Font Awesome – for icons
-	•	placehold.co – for placeholder images
+- Font Awesome – for icons
+- placehold.co – for placeholder images
 
-⸻
+---
 
 📄 License
 
