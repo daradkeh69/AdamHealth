@@ -3,6 +3,8 @@
 ![HTML](https://img.shields.io/badge/HTML-5-orange?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-3-blue?style=flat-square&logo=css3&logoColor=white)
 ![Font Awesome](https://img.shields.io/badge/Font%20Awesome-Icons-339AF0?style=flat-square&logo=fontawesome&logoColor=white)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Last Commit](https://img.shields.io/github/last-commit/daradkeh69/AdamHealth)
 
 AdamHealth is a clean, modern wellness website focused on holistic health. It offers a responsive design, informative content, and community-driven features to support physical, mental, and spiritual well-being.
 
