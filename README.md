@@ -56,7 +56,7 @@ cd adamhealth
 
 ---
 
-📄 License
+📜 License
 
 This project is open-source and available for personal or educational use.
 Feel free to modify, improve, or share — but please give credit if reused.
