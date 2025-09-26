@@ -25,7 +25,7 @@ AdamHealth is a clean, modern wellness website focused on holistic health. It of
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/yourusername/adamhealth.git
+git clone https://github.com/daradkeh69/adamhealth.git
 cd adamhealth
 ```
 
