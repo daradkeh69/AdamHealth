@@ -1,16 +1,10 @@
-<h1 align="center">🌐 AdamHealth</h1>
-
-AdamHealth is a clean, modern wellness website focused on holistic health. It offers a responsive design, informative content, and community-driven features to support physical, mental, and spiritual well-being.
-
-Built with **HTML**, **CSS**, and **Font Awesome**.
-
----
-
-## 🛠️ Tech Stack
+## 🌐AdamHealth
 
 ![HTML](https://img.shields.io/badge/HTML-5-orange?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-3-blue?style=flat-square&logo=css3&logoColor=white)
 ![Font Awesome](https://img.shields.io/badge/Font%20Awesome-Icons-339AF0?style=flat-square&logo=fontawesome&logoColor=white)
+
+AdamHealth is a clean, modern wellness website focused on holistic health. It offers a responsive design, informative content, and community-driven features to support physical, mental, and spiritual well-being.
 
 ---
 
@@ -64,3 +58,11 @@ cd adamhealth
 
 This project is open-source and available for personal or educational use.
 Feel free to modify, improve, or share — but please give credit if reused.
+
+---
+
+## 👤 Author
+
+**Daradkeh**  
+[![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/daradkehh) • [GitHub](https://github.com/daradkeh69) 
+
